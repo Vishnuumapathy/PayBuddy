@@ -1,0 +1,6 @@
+[submodule "Android"]
+	path = Android
+	url = https://github.com/Vishnuumapathy/PayBuddyAndroid.git
+[submodule "Web"]
+	path = Web
+	url = https://github.com/Vishnuumapathy/PayBuddyWeb.git
